@@ -15,7 +15,7 @@ function loadVocabulary() {
        //alert(data);
        //process text file line by line
         var lines = data.split("\n");
-        var allEntries = "<br>"; // "<div class='entry'>";
+        var allEntries = "<br><br>"; // "<div class='entry'>";
         for (var i = 0, len = lines.length; i < len; i++) {
             var row = lines[i];
             if(row){
