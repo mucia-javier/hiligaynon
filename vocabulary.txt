@@ -96,7 +96,7 @@ likod |back
 lawas |body
 tul-an |bone
 titi |breasts
-buli |buttocks
+bulí |buttocks
 guya, pisngi |cheek
 dughan |chest
 dulunggan |ear
@@ -130,5 +130,6 @@ dila |tongue
 ngipon | tooth
 putay/monay |vagina
 hawak |waist
+
 *Chaos
 జ్ఞ | none
