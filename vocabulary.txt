@@ -1,5 +1,3 @@
-*the thing
-thing1
 *Subjective Pronouns
 ako |i
 ikaw |you
@@ -8,6 +6,7 @@ kami |we (excluding listener)
 kita |we (incliding listener)
 kamo |you (plural)
 sila |they
+
 *Colors
 itom |black
 puti |white
