@@ -7,6 +7,62 @@ kita |we (incliding listener)
 kamo |you (plural)
 sila |they
 
+*Numbers (1-10)
+isa |1
+duha |2
+tatlo |3
+apat |4
+lima |5
+anum |6
+pito |7
+walo |8
+siyam (shiyam) |9 
+pulo |10
+
+*Body Parts
+kilay | eyebrow
+braso |arm
+ilok |armpit
+likod |back
+lawas |body
+tul-an |bone
+titi |breasts
+bulí |buttocks
+guya, pisngi |cheek
+dughan |chest
+dulunggan |ear
+siko |elbow
+mata |eye
+amimilok |eyelashes
+hitsura |face
+tiil |feet
+kamot |finger
+agtang |forehead
+kamot |hand
+buhok |hair
+ulo |head
+korason |heart
+sakong |heel
+balikawang |hip
+paa |leg
+bibig |lip
+bàbà |mouth
+kuko |nail
+ilong |nose
+palad |palm
+buto/pisot |penis
+abaga |shoulder
+panit |skin
+talampakan |sole
+tiyan |stomach
+paa |thigh
+kuko sang tiil | toe
+dila |tongue
+ngipon | tooth
+putay/monay |vagina
+hawak |waist
+
+
 *Colors
 itom |black
 puti |white
@@ -80,61 +136,6 @@ maniwang |thin/slim
 kalaw-ay | ugly
 bataon/hoben | young
 buntis | pregnant
-
-*Numbers (1-10)
-isa |1
-duha |2
-tatlo |3
-apat |4
-lima |5
-anum |6
-pito |7
-walo |8
-siyam (shiyam) |9 
-pulo |10
-
-*Body Parts
-kilay | eyebrow
-braso |arm
-ilok |armpit
-likod |back
-lawas |body
-tul-an |bone
-titi |breasts
-bulí |buttocks
-guya, pisngi |cheek
-dughan |chest
-dulunggan |ear
-siko |elbow
-mata |eye
-amimilok |eyelashes
-hitsura |face
-tiil |feet
-kamot |finger
-agtang |forehead
-kamot |hand
-buhok |hair
-ulo |head
-korason |heart
-sakong |heel
-balikawang |hip
-paa |leg
-bibig |lip
-bàbà |mouth
-kuko |nail
-ilong |nose
-palad |palm
-buto/pisot |penis
-abaga |shoulder
-panit |skin
-talampakan |sole
-tiyan |stomach
-paa |thigh
-kuko sang tiil | toe
-dila |tongue
-ngipon | tooth
-putay/monay |vagina
-hawak |waist
 
 *Chaos
 జ్ఞ | none
