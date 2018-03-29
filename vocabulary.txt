@@ -94,6 +94,7 @@ siyam (shiyam) |9
 pulo |10
 
 *Body Parts
+kilay | eyebrow
 braso |arm
 ilok |armpit
 likod |back
@@ -119,7 +120,7 @@ sakong |heel
 balikawang |hip
 paa |leg
 bibig |lip
-baba |mouth
+bàbà |mouth
 kuko |nail
 ilong |nose
 palad |palm
