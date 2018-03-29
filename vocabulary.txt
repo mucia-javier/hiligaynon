@@ -22,6 +22,7 @@ berde |green
 abo |gray
 abohon |gray
 biyolet, lila |violet
+
 *People Descriptors
 akig | angry
 malain | bad
@@ -79,6 +80,7 @@ maniwang |thin/slim
 kalaw-ay | ugly
 bataon/hoben | young
 buntis | pregnant
+
 *Numbers (1-10)
 isa |1
 duha |2
@@ -90,6 +92,7 @@ pito |7
 walo |8
 siyam (shiyam) |9 
 pulo |10
+
 *Body Parts
 braso |arm
 ilok |armpit
