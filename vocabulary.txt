@@ -20,35 +20,37 @@ siyam (shiyam) |9
 pulo |10
 
 *Body Parts
+ulo |head
+buhok |hair
+hitsura |face 🐱
+dulunggan | ear👂
+agtang |forehead
 kilay | eyebrow
-braso |arm
+amimilok |eyelashes
+mata |eye 👁️
+bàbà |mouth 👄
+bibig |lip 💋
+dila |tongue
+ngipon | tooth
+guya, pisngi |cheek
+ilong |nose👃
+braso |arm 💪
 ilok |armpit
 likod |back
 lawas |body
 tul-an |bone
 titi |breasts
 bulí |buttocks
-guya, pisngi |cheek
 dughan |chest
-dulunggan |ear
 siko |elbow
-mata |eye
-amimilok |eyelashes
-hitsura |face
 tiil |feet
 kamot |finger
-agtang |forehead
 kamot |hand
-buhok |hair
-ulo |head
 korason |heart
 sakong |heel
 balikawang |hip
 paa |leg
-bibig |lip
-bàbà |mouth
 kuko |nail
-ilong |nose
 palad |palm
 buto/pisot |penis
 abaga |shoulder
@@ -57,11 +59,8 @@ talampakan |sole
 tiyan |stomach
 paa |thigh
 kuko sang tiil | toe
-dila |tongue
-ngipon | tooth
 putay/monay |vagina
 hawak |waist
-
 
 *Colors
 itom |black
