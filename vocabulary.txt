@@ -20,9 +20,9 @@ siyam (shiyam) |9
 pulo |10
 
 *Body Parts
-ulo |head
+ulo |head 
 buhok |hair
-hitsura |face 🐱
+hitsura |face
 dulunggan | ear👂
 agtang |forehead
 kilay | eyebrow
