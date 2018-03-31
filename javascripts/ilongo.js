@@ -20,6 +20,7 @@ function loadDefaultTab(){
         document.body.style.height = newPageHeight+'px';
          */
         openTab("null", "vocabulary");
+        document.getElementById("vocabulary").className += " active";               
         }
 
 
