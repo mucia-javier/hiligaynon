@@ -8,6 +8,7 @@ kag |and
 sang | of
 sang |when / at the time that
 mbasì | maybe/might be
+
 *Greetings
 Maayong aga | Good morning
 Maayon aga man | Good morning to you
@@ -16,9 +17,11 @@ Maayong gab-i | Good evening
 Kamusta ka | how are you?
 Maayo ikaw | fine, and you?
 Maayo man | fine too/aslo
+
 *Leavetakings
-Makit-anay na lang kita | I'll see you
+Makit-anay na lang kita (too formal) | I'll see you
 Babay | goodbye (duhh)
+
 *Ask for Repetition
 Palihog liwat | Please repeat
 Palihog hinay-hinay | Please slowly
