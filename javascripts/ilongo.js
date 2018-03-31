@@ -1,3 +1,4 @@
+window.onload = loadDefaultTab;
 var initialHeight = '0px';
 const mq = window.matchMedia( "(min-width: 481px)" );
 
@@ -9,6 +10,11 @@ function refreshPage(){ // Window Resizing makes new page dimentions
       // window width is less than 481px
         }
     }
+
+function loadDefaultTab(){
+	    document.getElementById("vocabulary").style.display = "block"; 
+    }
+
 
 function openTab(evt, tabName) {
 
