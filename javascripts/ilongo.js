@@ -25,7 +25,7 @@ function loadDefaultTab(){
         var newPageHeight = document.getElementById('vocabulary_frame').contentWindow.document.body.offsetHeight+20;
         document.getElementById('vocabulary_frame').style.height = newPageHeight+'px';
         document.body.style.height = newPageHeight+'px';
-        //openTab("null", "vocabulary");
+        openTab("null", "vocabulary");
         }
 
 
