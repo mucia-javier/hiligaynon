@@ -12,12 +12,14 @@ function refreshPage(){ // Window Resizing makes new page dimentions
     }
 
 function loadDefaultTab(){
-                document.getElementById("vocabulary").className += " active"; 
-
-        document.getElementById("vocabulary").style.display = "block";   // Will show only the tab clicked
+        openTab(null, "vocabulary");
+        /*
+        document.getElementById("vocabulary").className += " active";                  
+        document.getElementById("vocabulary").style.display = "block";
         var newPageHeight = document.getElementById('vocabulary_frame').contentWindow.document.body.offsetHeight+20;
         document.getElementById('vocabulary_frame').style.height = newPageHeight+'px';
         document.body.style.height = newPageHeight+'px';
+        */
         }
 
 function openTab(evt, tabName) {
