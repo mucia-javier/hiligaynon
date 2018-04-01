@@ -1,4 +1,3 @@
-window.onload = loadDefaultTab;
 var initialHeight = '0px';
 const mq = window.matchMedia( "(min-width: 481px)" );
 
@@ -10,17 +9,6 @@ function refreshPage(){ // Window Resizing makes new page dimentions
       // window width is less than 481px
         }
     }
-
-function loadDefaultTab(){
-        openTab(null, "vocabulary");
-        /*
-        document.getElementById("vocabulary").className += " active";                  
-        document.getElementById("vocabulary").style.display = "block";
-        var newPageHeight = document.getElementById('vocabulary_frame').contentWindow.document.body.offsetHeight+20;
-        document.getElementById('vocabulary_frame').style.height = newPageHeight+'px';
-        document.body.style.height = newPageHeight+'px';
-        */
-        }
 
 function openTab(evt, tabName) {
 
