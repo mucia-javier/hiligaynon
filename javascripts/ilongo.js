@@ -12,7 +12,7 @@ function refreshPage(){ // Window Resizing makes new page dimentions
     }
 
 function loadDefaultTab(){
-	   
+	    openTab(null, "vocabulary");
 	    document.getElementById("vocabulary").className += " active";                  
 	    document.getElementById("vocabulary").style.display = "block";
 	    var newPageHeight = document.getElementById('vocabulary_frame').contentWindow.document.body.offsetHeight+20;
