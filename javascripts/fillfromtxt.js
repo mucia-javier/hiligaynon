@@ -6,7 +6,6 @@ function init(){    // Get the initial Height of the document
     }
 function loadVocabulary() {
     var pageTitle = document.title;
-    console.log(pageTitle);
     var fileName = 'vocabulary.txt'; // By default load vocabulary
     if(pageTitle == 'Phrases')
         fileName = 'phrases.txt';
@@ -34,5 +33,6 @@ function loadVocabulary() {
         allEntries += "</div>";
         $('#content').html(allEntries);
     }, 'text');
-}
+    console.log("Finished Loading: ",pageTitle);
+    }
 

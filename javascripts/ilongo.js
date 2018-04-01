@@ -1,3 +1,5 @@
+window.onload = init;
+
 var initialHeight = '0px';
 const mq = window.matchMedia( "(min-width: 481px)" );
 
@@ -8,6 +10,14 @@ function refreshPage(){ // Window Resizing makes new page dimentions
     else {
       // window width is less than 481px
         }
+    }
+
+function init(){
+    openTab(null, "vocabulary"); 
+
+    console.log("vocab height: ",document.getElementById('vocabulary_frame').contentWindow.document.body.offsetHeight );
+    console.log("page Height: ", document.documentElement.scrollHeight);
+    //document.body.style.height = 0px;  
     }
 
 function openTab(evt, tabName) {
@@ -30,7 +40,8 @@ function openTab(evt, tabName) {
         tablinks[i].className = tablinks[i].className.replace("active", "");
     }
     document.getElementById(tabName).style.display = "block";   // Will show only the tab clicked
-    evt.currentTarget.className += " active";                   // Will set the selected tablink as active
+    document.getElementById(tabName).className += " active";
+    //evt.currentTarget.className += " active";                   // Will set the selected tablink as active
     var pageHeight = initialHeight+'px';
 
     var newPageHeight = 0;
@@ -46,9 +57,7 @@ function openTab(evt, tabName) {
         newPageHeight = document.getElementById('phrases_frame').contentWindow.document.body.offsetHeight+20;
         document.getElementById('phrases_frame').style.height = newPageHeight+'px';
         }
-
     pageHeight = newPageHeight+50;
-
     document.body.style.height = pageHeight+'px';
     }
 
