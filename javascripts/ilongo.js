@@ -20,12 +20,12 @@ function loadDefaultTab(){
         document.body.style.height = newPageHeight+'px';
          */
         openTab("null", "vocabulary");
-        document.getElementById("vocabulary").className += " active";   
-        document.getElementById("vocabulary").style.display = "block";            
+         
         var newPageHeight = document.getElementById('vocabulary_frame').contentWindow.document.body.offsetHeight+20;
         document.getElementById('vocabulary_frame').style.height = newPageHeight+'px';
         document.body.style.height = newPageHeight+'px';
-        
+        document.getElementById("vocabulary").className += " active";   
+        document.getElementById("vocabulary").style.display = "block";           
         }
 
 
