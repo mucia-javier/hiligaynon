@@ -14,10 +14,6 @@ function refreshPage(){ // Window Resizing makes new page dimentions
 
 function init(){
     openTab(null, "vocabulary"); 
-
-    console.log("vocab height: ",document.getElementById('vocabulary_frame').contentWindow.document.body.offsetHeight );
-    console.log("page Height: ", document.documentElement.scrollHeight);
-    //document.body.style.height = 0px;  
     }
 
 function openTab(evt, tabName) {
@@ -40,8 +36,8 @@ function openTab(evt, tabName) {
         tablinks[i].className = tablinks[i].className.replace("active", "");
     }
     document.getElementById(tabName).style.display = "block";   // Will show only the tab clicked
-    document.getElementById(tabName).className += " active";
-    //evt.currentTarget.className += " active";                   // Will set the selected tablink as active
+    //document.getElementById(tabName).className += " active";
+    evt.currentTarget.className += " active";                   // Will set the selected tablink as active
     var pageHeight = initialHeight+'px';
 
     var newPageHeight = 0;
