@@ -13,12 +13,13 @@ function refreshPage(){ // Window Resizing makes new page dimentions
     }
 
 function init(){
-	document.getElementById("vocabulary").className += " active";
+	openTab(null, "vocabulary"); 
+    document.getElementById("vocabulary").className += " active";
     var newPageHeight = document.getElementById('vocabulary_frame').contentWindow.document.body.offsetHeight+20;
     document.getElementById('vocabulary_frame').style.height = newPageHeight+'px';
     newPageHeight = newPageHeight+50;
     document.body.style.height = newPageHeight+'px';
-    openTab(null, "vocabulary"); 
+    
     }
 
 function openTab(evt, tabName) {
