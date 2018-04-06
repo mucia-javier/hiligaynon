@@ -1,8 +1,6 @@
 window.onload = init;
 
-var initialHeight = '0px';
 const mq = window.matchMedia( "(min-width: 481px)" );
-
 function refreshPage(){ // Window Resizing makes new page dimentions
     if (mq.matches) {
         window.location.href = window.location.href;
@@ -14,7 +12,6 @@ function refreshPage(){ // Window Resizing makes new page dimentions
 
 function init(){
 	document.getElementById("phrases_link").click();
-	console.log("Height: ", document.body.style.height);
     }
 
 function openTab(evt, tabName) {
@@ -38,19 +35,12 @@ function openTab(evt, tabName) {
     }
     document.getElementById(tabName).style.display = "block";   // Will show only the tab clicked
     evt.currentTarget.className += " active";                   // Will set the selected tablink as active
-    var newPageHeight = 0;
-    if(tabName =='vocabulary'){
-        newPageHeight = document.getElementById('vocabulary_frame').contentWindow.document.body.offsetHeight+20;
-        document.getElementById('vocabulary_frame').style.height = newPageHeight+'px';
-        }
-    if(tabName =='notes'){
-        newPageHeight = document.getElementById('notes_frame').contentWindow.document.body.offsetHeight+20;
-        document.getElementById('notes_frame').style.height = newPageHeight+'px';
-        }
-    if(tabName =='phrases'){
-        newPageHeight = document.getElementById('phrases_frame').contentWindow.document.body.offsetHeight+20;
-        document.getElementById('phrases_frame').style.height = newPageHeight+'px';
-        }
+    
+
+    // Resize the whole page according to size of the current frame displayed
+    var frame_name = tabName+"_frame";
+	var newPageHeight = document.getElementById(frame_name).contentWindow.document.body.offsetHeight+20;
+    document.getElementById(frame_name).style.height = newPageHeight+'px';
     newPageHeight +=50;
     document.body.style.height = newPageHeight+'px';
     }

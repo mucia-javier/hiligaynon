@@ -33,6 +33,6 @@ function loadVocabulary() {
         allEntries += "</div>";
         $('#content').html(allEntries);
     }, 'text');
-    console.log("Finished Loading: ",pageTitle);
+    //console.log("Finished Loading: ",pageTitle);
     }
 
