@@ -44,7 +44,7 @@
 		/* Style the links inside the list items */
 		ul.tab li a {
 				display: inline-block;
-				color: rgb(90,90,90);
+				color: #253947; //rgb(90,90,90);
 				background-color: white; 
 				text-align: center;
 				padding: 12px 1px;
@@ -61,8 +61,8 @@
 
 		/* Create an active/current tablink class */
 		ul.tab li a:focus, .active {
-			color: #000000;
-			background-color: #FFFFFF;	  
+			font-size: 1.1em;
+			color: #253947;
 			font-weight: bold;	
 			}
 
