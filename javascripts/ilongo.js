@@ -13,6 +13,7 @@ function refreshPage(){ // Window Resizing makes new page dimentions
     }
 
 function init(){
+	document.getElementById("vocabulary").click()
 	/*
 	openTab(null, "vocabulary"); 
     document.getElementById("vocabulary").className += " active";
