@@ -230,7 +230,7 @@ Small Device Styles
 @media screen and (max-width: 480px) {
 		#header_wrap {
 		  position:relative;
-		  height: 0px;
+		  height: 100%;
 		  width: 100%;
 		  }
 
