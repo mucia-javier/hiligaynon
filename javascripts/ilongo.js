@@ -11,7 +11,7 @@ function refreshPage(){ // Window Resizing makes new page dimentions
     }
 
 function init(){
-	document.getElementById("phrases_link").click();
+	document.getElementById("notes_link").click();
     }
 
 function openTab(evt, tabName) {
