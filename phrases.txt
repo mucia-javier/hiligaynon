@@ -1,4 +1,4 @@
-*Important/Common Words
+*Common Words/Phrases
 húo |yes
 oo | yes (common)
 indì |no
@@ -8,6 +8,7 @@ kag |and
 sang | of
 sang |when / at the time that
 mbasì | maybe/might be
+Papulí na ako/ko | I'm going home now
 
 *Greetings
 Maayong aga | Good morning
@@ -39,6 +40,7 @@ ambot/wala 'ko kabalo | I don't know
 Dali lang | Just a minute, one moment
 Ano siling mo | I beg your pardon?
 Palihog | Please
+
 *Question Words
 Sin-o | Who?
 kay sín-o | whose?
