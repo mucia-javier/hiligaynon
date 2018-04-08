@@ -1,5 +1,5 @@
 *Question form
-na <adjective/descriptor> <pronoun/subject/name>
+na <adjective/descriptor> <pronoun/subject/name> | ?
 *Common Words/Phrases
 húo |yes
 oo | yes (common)
