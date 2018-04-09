@@ -1,5 +1,6 @@
 *Question form
 na [adj/desc] [pron/subj/name] | ?
+
 *Common Words/Phrases
 húo |yes
 oo | yes (common)
@@ -11,6 +12,9 @@ sang | of
 sang |when / at the time that
 mbasì | maybe/might be
 Papulí na ako/ko | I'm going home now
+malamig | It's cold
+lamig-lamig | Is very cold
+happy ka | are you happy?
 
 *Greetings
 Maayong aga | Good morning
