@@ -41,10 +41,10 @@ Pensasiyaha | Excuse me
 Patawara ako | I am sorry
 Indi ko hungod | I did not mean to do it
 indi ka mangakig sa akon | Please don't be offended
-kaintiyendi | I don't understand
+kaintyendi | I don't understand
 ambot/wala 'ko kabalo | I don't know
 Dalì lang | Just a minute, one moment / It's easy
-Ano siling mo | I beg your pardon?
+Ano siling mo | what did you say?
 Palihog | Please
 
 *Question Words
@@ -56,6 +56,5 @@ Nga-a | Why?
 Paano | How?
 Pila | How much? (quantity)
 Tagpila | How much? (cost)
-Sa diin | Where?
+Sa diìn | Where?
 Diin sini/sina/sadto | Which?
-Sa diin | Where? (direction/location)
