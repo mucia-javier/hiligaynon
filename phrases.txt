@@ -4,16 +4,16 @@ na [adj/desc] [pron/subj/name] | ?
 *Common Words/Phrases
 húo |yes
 oo | yes (common)
-indì |no
+(h)indì |no
 may arà | There is/are
 walâ / waáy | There isn't/aren't any
 kag |and
 sang | of
 sang |when / at the time that
 mbasì | maybe/might be
-Papulí na ako/ko | I'm going home now
-malamig | It's cold
-lamig-lamig | Is very cold
+Papúlì na ako/ko | I'm going home now
+malamìg | It's cold
+lamig-lámig | Is very cold
 happy ka | are you happy?
 
 *Greetings
@@ -33,8 +33,8 @@ Babay | goodbye (duhh)
 Palihog liwat | Please repeat
 Palihog hinay-hinay | Please slowly
 *Courtesy
-Salamat | Thank you
-Salamat gid | Thank you very much 
+Salámat | Thank you
+Salámat gid | Thank you very much 
 wa sing ano man | you're welcome
 Pasensiya | Sorry
 Pensasiyaha | Excuse me
@@ -43,7 +43,7 @@ Indi ko hungod | I did not mean to do it
 indi ka mangakig sa akon | Please don't be offended
 kaintiyendi | I don't understand
 ambot/wala 'ko kabalo | I don't know
-Dali lang | Just a minute, one moment
+Dalì lang | Just a minute, one moment / It's easy
 Ano siling mo | I beg your pardon?
 Palihog | Please
 
