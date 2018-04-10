@@ -1,7 +1,7 @@
 *Subjective Pronouns
 ako |i
 ikaw |you
-siya |he/she
+siya (sha) |he/she
 kami |we (excluding listener)
 kita |we (incliding listener)
 kamo |you (plural)
@@ -17,7 +17,7 @@ anum |6
 pito |7
 walo |8
 siyam (shiyam) |9 
-pulo |10
+pulò |10
 
 *Body Parts
 ulo |head 
