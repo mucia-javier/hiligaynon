@@ -2,7 +2,7 @@
 na [adj/desc] [pron/subj/name] | ?
 
 *Common Words/Phrases
-húo |yes
+<strike> húo |yes </strike>
 oo | yes (common)
 (h)indì |no
 may arà | There is/are
