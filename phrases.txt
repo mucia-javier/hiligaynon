@@ -1,6 +1,3 @@
-*Question form
-na [adj/desc] [pron/subj/name] | ?
-
 *Common Words/Phrases
 <strike> húo |yes </strike>
 oo | yes (common)
@@ -14,7 +11,6 @@ mbasì | maybe/might be
 Papúlì na ako/ko | I'm going home now
 malamìg | It's cold
 lamig-lámig | Is very cold
-happy ka | are you happy?
 
 *Greetings
 Maayong aga | Good morning
@@ -47,7 +43,16 @@ Dalì lang | Just a minute, one moment / It's easy
 Ano siling mo | what did you say?
 Palihog | Please
 
+*Question form
+na [adj/desc] [pron/subj/name] | ?
+
 *Question Words
+happy ka | are you happy?
+Ano ang [english] sa ilonggo? | what's • in ilonggo?
+Ano ini? | what's this?
+Ano ina? | what's that?
+Sin-o ina? | who is that?
+Ano ang ngalan mo? | what's your name?
 Sin-o | Who?
 kay sín-o | whose?
 Ano | What?
