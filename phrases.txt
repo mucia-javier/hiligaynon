@@ -2,15 +2,17 @@
 <strike> húo |yes </strike>
 oo | yes (common)
 (h)indì |no
+Papúlì na ako/ko | I'm going home now
+malamìg | It's cold
+lamig-lámig | Is very cold
+Wala ako ambot/kabalo | i don't know
 may arà | There is/are
 walâ / waáy | There isn't/aren't any
 kag |and
 sang | of
 sang |when / at the time that
 mbasì | maybe/might be
-Papúlì na ako/ko | I'm going home now
-malamìg | It's cold
-lamig-lámig | Is very cold
+
 
 *Greetings
 Maayong aga | Good morning
@@ -52,6 +54,7 @@ Ano ang [english] sa ilonggo? | what's • in ilonggo?
 Ano ini? | what's this?
 Ano ina? | what's that?
 Sin-o ina? | who is that?
+Sin-o siya?| who is he/she?
 Ano ang ngalan mo? | what's your name?
 Sin-o | Who?
 kay sín-o | whose?
@@ -61,5 +64,6 @@ Nga-a | Why?
 Paano | How?
 Pila | How much? (quantity)
 Tagpila | How much? (cost)
+Tagpila ini | how much is this?
 Sa diìn | Where?
 Diin sini/sina/sadto | Which?
