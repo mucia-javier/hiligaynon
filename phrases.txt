@@ -8,6 +8,10 @@ lamig-lámig | Is very cold
 Wala ako ambot/kabalo | i don't know
 Gusto ko ini | i like this
 Indi ko gusto ang [•] | i don't like [•]
+Kapoy ako | I'm tired
+Kapoy gid ako | I'm very tired
+Gutom ako | I'm hungry
+
 may arà | There is/are
 walâ / waáy | There isn't/aren't any
 kag |and
