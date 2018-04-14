@@ -12,6 +12,10 @@ Kapoy ako | I'm tired
 Kapoy gid ako | I'm very tired
 Gutom ako | I'm hungry
 
+Diin ka makadto? | Where are you going?
+Diin ka naghalin? | Where have you been?
+Makadto ako sa inyo/tiendahan | I'm going to (your place)/(the market)
+
 may arà | There is/are
 walâ / waáy | There isn't/aren't any
 kag |and
