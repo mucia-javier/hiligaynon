@@ -11,6 +11,7 @@ Indi ko gusto ang [•] | i don't like [•]
 Kapoy ako | I'm tired
 Kapoy gid ako | I'm very tired
 Gutom ako | I'm hungry
+katol ang buli | the 🍑 is itchy
 
 Diin ka na [name]? | Where are you now [name]?
 Diin ka makadto? | Where are you going?
