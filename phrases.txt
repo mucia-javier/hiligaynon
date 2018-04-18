@@ -14,6 +14,7 @@ Gutom ako | I'm hungry
 katol ang buli | the 🍑 is itchy
 
 Diin ka na [name]? | Where are you now [name]?
+Ari ko sa ____ | I'm at ___ now
 Diin ka makadto? | Where are you going?
 Diin ka naghalin? | Where have you been?
 Makadto ako sa inyo/tiendahan | I'm going to (your place)/(the market)
