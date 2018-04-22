@@ -13,6 +13,9 @@ Kapoy gid ako | I'm very tired
 Gutom ako | I'm hungry
 katol ang buli | the 🍑 is itchy
 
+*Commands
+Hindì pag hampakà ang bulì | don't hit the 🍑 
+
 Diin ka na [name]? | Where are you now [name]?
 Ari ko sa ____ | I'm at ___ now
 Diin ka makadto? | Where are you going?
