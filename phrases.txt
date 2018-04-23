@@ -22,8 +22,9 @@ Diin ka na [name]? | Where are you now [name]?
 Diin ka makadto? | Where are you going?
 Diin ka naghalin? | Where have you been?
 
-*Question form
+*"Feeling" question form
 na [adj/desc] [pron/subj/name] | ?
+Na gutom ako? | Are you hungry?
 
 *Question Words
 happy ka | are you happy?
