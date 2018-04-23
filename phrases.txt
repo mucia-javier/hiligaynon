@@ -12,52 +12,15 @@ Kapoy ako | I'm tired
 Kapoy gid ako | I'm very tired
 Gutom ako | I'm hungry
 katol ang buli | the 🍑 is itchy
-Diin ka na [name]? | Where are you now [name]?
 Ari ko sa ____ | I'm at ___ now
-Diin ka makadto? | Where are you going?
-Diin ka naghalin? | Where have you been?
 Makadto ako sa inyo/tiendahan | I'm going to (your place)/(the market)
 
-may arà | There is/are
-walâ / waáy | There isn't/aren't any
-kag |and
-sang | of
-sang |when / at the time that
-mbasì | maybe/might be
-
-*Commands
-Hindì pag hampakà ang bulì | don't hit the 🍑 
-
-*Greetings
-Maayong aga | Good morning
-Maayon aga man | Good morning to you
-Maayong Hapon | Good afternoon
-Maayong gab-i | Good evening
-Kamusta ka | how are you?
-Maayo ikaw | fine, and you?
-Maayo man | fine too/aslo
-
-*Leavetakings
-Makit-anay na lang kita (too formal) | I'll see you
-Babay | goodbye (duhh)
-
-*Ask for Repetition
-Palihog liwat | Please repeat
-Palihog hinay-hinay | Please slowly
-*Courtesy
-Salámat | Thank you
-Salámat gid | Thank you very much 
-wa sing ano man | you're welcome
-Pasensiya | Sorry
-Pensasiyaha | Excuse me
-Patawara ako | I am sorry
-Indi ko hungod | I did not mean to do it
-indi ka mangakig sa akon | Please don't be offended
-kaintyendi | I don't understand
-ambot/wala 'ko kabalo | I don't know
-Dalì lang | Just a minute, one moment / It's easy
-Ano siling mo | what did you say?
-Palihog | Please
+*Common Questions
+Ano gusto mo? | What do you want?
+<strike> Gusto mo water? | Do you want some water? </strike>
+Diin ka na [name]? | Where are you now [name]?
+Diin ka makadto? | Where are you going?
+Diin ka naghalin? | Where have you been?
 
 *Question form
 na [adj/desc] [pron/subj/name] | ?
@@ -81,3 +44,38 @@ Tagpila | How much? (cost)
 Tagpila ini | how much is this?
 Sa diìn | Where?
 Diin sini/sina/sadto | Which?
+
+*Commands
+Hindì pag hampakà ang bulì | don't hit the 🍑 
+
+*Greetings
+Maayong aga | Good morning
+Maayon aga man | Good morning to you
+Maayong Hapon | Good afternoon
+Maayong gab-i | Good evening
+Kamusta ka | how are you?
+Maayo ikaw | fine, and you?
+Maayo man | fine too/aslo
+
+*Leavetakings
+Makit-anay na lang kita (too formal) | I'll see you
+Babay | goodbye (duhh)
+
+*Ask for Repetition
+Palihog liwat | Please repeat
+Palihog hinay-hinay | Please slowly
+
+*Courtesy
+Salámat | Thank you
+Salámat gid | Thank you very much 
+wa sing ano man | you're welcome
+Pasensiya | Sorry
+Pensasiyaha | Excuse me
+Patawara ako | I am sorry
+Indi ko hungod | I did not mean to do it
+indi ka mangakig sa akon | Please don't be offended
+kaintyendi | I don't understand
+ambot/wala 'ko kabalo | I don't know
+Dalì lang | Just a minute, one moment / It's easy
+Ano siling mo | what did you say?
+Palihog | Please
