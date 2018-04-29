@@ -5,7 +5,7 @@ oo | yes (common)
 Papúlì na ako/ko | I'm going home now
 malamìg | It is cold
 lamig-lámig | It is very cold
-Wala ako ambot/kabalo | i don't know
+Wala ako kabalo [formal] / (ambot) | i don't know
 Gusto ko ini | i like this
 Indi ko gusto ang [•] | i don't like [•]
 Kapoy ako | I'm tired
@@ -17,8 +17,9 @@ Makadto ako sa inyo/tiendahan | I'm going to (your place)/(the market)
 
 *Common Questions
 Ano gusto mo? | What do you want?
-<strike> Gusto mo water? | Do you want some water? </strike>
+ Gusto mo water? | Do you want some water?
 Diin ka na [name]? | Where are you now [name]?
+Diin na si [name]? | Where is [name]?
 Diin ka makadto? | Where are you going?
 Diin ka naghalin? | Where have you been?
 
